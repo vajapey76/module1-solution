@@ -1,0 +1,1 @@
+This is the solution for module 1 - assignment for Angular JS from course era.
